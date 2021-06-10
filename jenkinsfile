@@ -1,8 +1,8 @@
-@Library('Todoshop') _
+@Library('todoshop') _
 
 todoshop (
-         COMPONENT             : "frontend",
-         PROJECT_NAME          : "Todoshop",
+         COMPONENT             : 'frontend',
+         PROJECT_NAME          : "todoshop",
          SLAVE_LABEL           : "node",
          SKIP_NEXUS_UPLOAD     : false,
          APP_TYPE              : "NGINX"
